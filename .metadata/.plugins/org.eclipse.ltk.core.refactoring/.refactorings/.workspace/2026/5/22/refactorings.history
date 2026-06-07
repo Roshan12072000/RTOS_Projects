@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;LedTask_UserButtionTask_Test_IT_FreeRTOS/Debug/LedTask_UserButtionTask_Test_FreeRTOS.elf&apos;" deleteContents="false" description="Delete resource &apos;LedTask_UserButtionTask_Test_IT_FreeRTOS/Debug/LedTask_UserButtionTask_Test_FreeRTOS.elf&apos;" element1="/LedTask_UserButtionTask_Test_IT_FreeRTOS/Debug/LedTask_UserButtionTask_Test_FreeRTOS.elf" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1779791468347"/>
+</session>

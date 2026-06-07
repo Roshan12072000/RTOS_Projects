@@ -1,0 +1,12 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:create_TASK,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Task_delay_FreeRTOS (1),org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LedTask_UserButtionTask_Test_FreeRTOS,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LedTask_UserButtionTask_Test_IT_FreeRTOS,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Task_Priority_FreeRTOS,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Free_RTOS_Task_Notify,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Task_Deletion_FreeRTOS,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Task_Priority_FreeRTOS (1),org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Task_delay_FreeRTOS,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Idle_Task_HookFunction_FreeRTOS,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Binary_Semaphore_FreeRTOS,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Counting_Semaphore_FreeRTOS,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Queue_Management_FreeRTOS,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Mutex_FreeRTOS
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Binary_Semaphore_FreeRTOS/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Binary_Semaphore_FreeRTOS/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Free_RTOS_Task_Notify/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Free_RTOS_Task_Notify/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Task_Deletion_FreeRTOS/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:create_TASK/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:create_TASK/activeLaunchTarget=null\:---

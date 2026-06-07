@@ -1,0 +1,5 @@
+1780296159880	Delete resource 'Task_Deletion_FreeRTOS/Debug/LedTask_UserButtionTask_Test_FreeRTOS.elf'
+1780308375265	Delete resource 'Task_Priority_FreeRTOS/Debug/LedTask_UserButtionTask_Test_IT_FreeRTOS.elf'
+1780477528613	Delete resource 'Task_delay_FreeRTOS/Debug/Task_Priority_FreeRTOS.elf'
+1780492371677	Delete resource 'Queue_Management_FreeRTOS'
+1780562712945	Delete resource 'endian_demo'

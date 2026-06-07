@@ -1,0 +1,10 @@
+13:04:11 **** Incremental Build of configuration Debug for project Task_Deletion_FreeRTOS ****
+make -j8 all 
+arm-none-eabi-size  Task_Deletion_FreeRTOS.elf 
+   text	   data	    bss	    dec	    hex	filename
+  21600	     96	   6056	  27752	   6c68	Task_Deletion_FreeRTOS.elf
+Finished building: default.size.stdout
+ 
+
+13:04:11 Build Finished. 0 errors, 0 warnings. (took 470ms)
+

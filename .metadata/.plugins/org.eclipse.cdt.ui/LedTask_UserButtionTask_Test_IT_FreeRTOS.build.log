@@ -1,0 +1,10 @@
+18:40:55 **** Build of configuration Debug for project LedTask_UserButtionTask_Test_IT_FreeRTOS ****
+make -j8 all 
+arm-none-eabi-size  LedTask_UserButtionTask_Test_IT_FreeRTOS.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18208	     20	   5644	  23872	   5d40	LedTask_UserButtionTask_Test_IT_FreeRTOS.elf
+Finished building: default.size.stdout
+ 
+
+18:40:56 Build Finished. 0 errors, 0 warnings. (took 550ms)
+
