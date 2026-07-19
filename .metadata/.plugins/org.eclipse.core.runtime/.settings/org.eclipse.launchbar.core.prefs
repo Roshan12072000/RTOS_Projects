@@ -7,6 +7,8 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Binary_Semaphore_FreeRTOS/activ
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Binary_Semaphore_FreeRTOS/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Free_RTOS_Task_Notify/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Free_RTOS_Task_Notify/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Queue_Management_FreeRTOS/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Queue_Management_FreeRTOS/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Task_Deletion_FreeRTOS/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:create_TASK/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:create_TASK/activeLaunchTarget=null\:---

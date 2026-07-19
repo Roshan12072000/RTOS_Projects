@@ -1,0 +1,20 @@
+15:04:47 **** Incremental Build of configuration Debug for project 69_Multi-Tasking ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c:451:13: warning: 'MX_RTC_Init' defined but not used [-Wunused-function]
+  451 | static void MX_RTC_Init(void)
+      |             ^~~~~~~~~~~
+arm-none-eabi-gcc -o "69_Multi-Tasking.elf" @"objects.list"   -mcpu=cortex-m4 -T"D:\RTOS_Workspace\69_Multi-Tasking\STM32L476RGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="69_Multi-Tasking.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 69_Multi-Tasking.elf
+ 
+arm-none-eabi-size  69_Multi-Tasking.elf 
+arm-none-eabi-objdump -h -S 69_Multi-Tasking.elf  > "69_Multi-Tasking.list"
+   text	   data	    bss	    dec	    hex	filename
+  31364	    252	  19524	  51140	   c7c4	69_Multi-Tasking.elf
+Finished building: default.size.stdout
+ 
+Finished building: 69_Multi-Tasking.list
+ 
+
+15:04:50 Build Finished. 0 errors, 1 warnings. (took 2s.253ms)
+
